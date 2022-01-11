@@ -14,3 +14,5 @@ Instruction to load the game into your web server:
 2. Make sure your IDE have an Live Server Extension(I used Live Server from Ritwick Dey in the marketplace)
 3. Run the Index.html
 4. Enjoy the game!
+
+Link to play: https://tungdang214.github.io/Sant-s-Brother/
